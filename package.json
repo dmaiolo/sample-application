@@ -1,0 +1,19 @@
+{
+  "name": "sample-application",
+  "version": "1.0.0",
+  "description": "Playing around with code as my first node.js project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dmaiolo/sample-application.git"
+  },
+  "author": "David Maiolo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dmaiolo/sample-application/issues"
+  },
+  "homepage": "https://github.com/dmaiolo/sample-application#readme"
+}
