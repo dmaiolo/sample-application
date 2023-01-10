@@ -1,6 +1,6 @@
-# Project Title
+# Sample Node.js application.
 
-A brief description of your project.
+This is my first node.js application.
 
 ## Getting Started
 
